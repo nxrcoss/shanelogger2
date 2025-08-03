@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/image.png",
+      "destination": "/shane-anticheat.zip",
+      "permanent": false
+    }
+  ]
+}
